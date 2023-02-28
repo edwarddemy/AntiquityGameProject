@@ -1,5 +1,8 @@
 # AntiquityGameProject
 
+<div style="width: 1000px; height 600px;"><img src="https://github.com/edwarddemy/AntiquityGameProject/blob/main/a3.PNG?raw=true" width="25%" height="25%" align="right"></div>
+
+
 ## Introduction
 The purpose of this project is to utilize my aquired skills, increase my knowledge on app development, and gain experience from creating and publishing a game. This is my third game project using the Unity Game Engine. 
 
@@ -9,6 +12,8 @@ Currently it is being worked on two people, including myself. The other person i
 
 This project is a turn-based strategy game set in the older ages, where the objective of the player is to win by controlling a majority of key areas. The player may do this in a variety of ways, such as using combat units, managing their economical power, researching new technologies, and more. The area of the game is played on a hex grid painted with functioning terrain and resources.
 
+<div style="width: 1000px; height 600px;"><img src="https://github.com/edwarddemy/AntiquityGameProject/blob/main/a5.PNG?raw=true" width="30%" height="30%" align="right"></div>
+
 This project incorporates:
   - Unit pathfinding using a self-implemented Dijkstra's algorithm to find all possible paths for a unit
   - Local Multiplayer using "Fish-Networking" developed by FirstGearGames
@@ -16,6 +21,8 @@ This project incorporates:
   - Usage of PlasticSCM as source control in conjunction with Unity Engine
 
 ## Custom Features
+
+<div style="width: 1000px; height 600px;"><img src="https://github.com/edwarddemy/AntiquityGameProject/blob/main/a6.gif?raw=true" width="50%" height="50%" align="right"></div>
 
 Applied Game Features and Mechanics:
 
