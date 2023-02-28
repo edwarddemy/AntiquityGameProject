@@ -1,4 +1,4 @@
-# AntiquityGameProject
+# Antiquity Game Project
 
 <div style="width: 1000px; height 600px;"><img src="https://github.com/edwarddemy/AntiquityGameProject/blob/main/a3.PNG?raw=true" width="25%" height="25%" align="right"></div>
 
@@ -47,3 +47,48 @@ Tutorials and resources used:
 - https://www.youtube.com/@unity
 - https://www.youtube.com/playlist?list=PLkx8oFug638oaqxmw2Xm-VEq9CyYWyYzn
 
+
+
+# Breakout Game Project
+
+## Introduction
+The purpose of this project was simply to increase my understanding and knowledge of the Unity Game Engine. This is my second game project using Unity. 
+
+## Overview
+
+This is a simple "Breakout" game where players are given a paddle to control and must knock out the blocks in the air. If the ball falls behind the paddle, the player will lose a life, and their score will be affected. There is a level progression system where players start with an easy level, and go up to harder levels. 
+
+This project incorporates:
+  - Physics based collision using colliders and RigidBody components on the ball and objects
+  - Code was designed for scalability. New levels can easily be added without much work.
+  - Ability to be played on Android
+
+## Custom Features
+
+Applied Game Features and Mechanics:
+
+- Main menu with level selector
+- Settings menu
+- After not colliding with anything, the ball will begin to fall down so it won't be stuck bouncing between the boundary walls.
+- In-game pause menu with options to restart or exit game
+- Victory/Defeat screen showing score and more options
+
+
+# Infinite Runner Game Project
+
+## Introduction
+intro
+
+## Overview
+
+overview
+
+This project incorporates:
+  - stuff
+
+## Custom Features
+
+Applied Game Features and Mechanics:
+
+- features
+- mechanics
