@@ -1,4 +1,4 @@
-# Antiquity Game Project
+# Antiquity
 
 <div style="width: 1000px; height 600px;"><img src="https://github.com/edwarddemy/AntiquityGameProject/blob/main/a3.PNG?raw=true" width="25%" height="25%" align="right"></div>
 
