@@ -42,7 +42,7 @@ Unity plugins used:
 - https://github.com/FirstGearGames/FishNet/
 - https://github.com/VeriorPies/ParrelSync
 
-Tutorials and resources used:
+Resources and references used:
 - https://www.youtube.com/@quill18creates
 - https://www.youtube.com/@unity
 - https://www.youtube.com/playlist?list=PLkx8oFug638oaqxmw2Xm-VEq9CyYWyYzn
