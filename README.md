@@ -16,7 +16,7 @@ This project is a turn-based strategy game set in the older ages, where the obje
 
 This project incorporates:
   - Unit pathfinding using a self-implemented Dijkstra's algorithm to find all possible paths for a unit
-  - Local Multiplayer using "Fish-Networking" developed by FirstGearGames
+  - Local Multiplayer using Unity's Netcode by Unity Gaming Services
   - Generated hex grid, terrain, and resources using Perlin Noise
   - Usage of PlasticSCM as source control in conjunction with Unity Engine
 
