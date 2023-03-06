@@ -39,7 +39,6 @@ Applied Game Features and Mechanics:
 ### Acknowledgements
 
 Unity plugins used:
-- https://github.com/FirstGearGames/FishNet/
 - https://github.com/VeriorPies/ParrelSync
 
 Resources and references used:
